@@ -18,7 +18,7 @@ pipeline
             }
                 
         }
-        stage('ContinuousDeployment')
+        stage('ContinuousDeployment') 
         {
             steps
             {
